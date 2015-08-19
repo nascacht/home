@@ -1,0 +1,8 @@
+{
+    "name": "nascacht.Web",
+    "private": true,
+    "dependencies": {
+        "bootstrap": "3.3.5",
+        "mootools": "1.5.1"
+    }
+}
